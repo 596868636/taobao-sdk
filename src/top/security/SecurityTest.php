@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top\security;
 	include './SecurityClient.php';
 	include './YacCache.php';
 

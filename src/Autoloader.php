@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk;
 class Autoloader{
   
   /**

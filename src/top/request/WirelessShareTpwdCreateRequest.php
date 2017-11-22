@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top\request;
 /**
  * TOP API: taobao.wireless.share.tpwd.create request
  * 

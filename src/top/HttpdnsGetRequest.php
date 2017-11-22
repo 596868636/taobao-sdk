@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top;
 class HttpdnsGetRequest
 {
 	private $apiParas = array();

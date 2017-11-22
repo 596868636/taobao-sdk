@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top\request;
 /**
  * TOP API: taobao.ju.items.search request
  * 

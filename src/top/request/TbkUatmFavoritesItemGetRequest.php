@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top\request;
 /**
  * TOP API: taobao.tbk.uatm.favorites.item.get request
  * 

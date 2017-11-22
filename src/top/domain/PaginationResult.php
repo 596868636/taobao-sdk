@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top\domain;
 /**
  * 返回结果
  * @author auto create

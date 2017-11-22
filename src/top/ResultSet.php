@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top;
 /**
  * 返回的默认类
  * 

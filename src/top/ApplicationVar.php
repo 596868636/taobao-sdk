@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top;
 class ApplicationVar
 {
 	var $save_file;

@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top\security;
 	class SecretContext
 	{
 		var $secret;

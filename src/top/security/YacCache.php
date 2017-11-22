@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top\security;
 /**
 * yac实现cache
 */

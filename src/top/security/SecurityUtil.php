@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top\security;
 	include './SecretContext.php';
 	include './MagicCrypt.php';
 

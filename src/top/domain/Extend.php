@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top\domain;
 
 /**
  * 扩展属性

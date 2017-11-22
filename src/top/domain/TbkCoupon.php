@@ -1,5 +1,5 @@
 <?php
-
+namespace ric\taobaosdk\top\domain;
 /**
  * TbkCoupon
  * @author auto create

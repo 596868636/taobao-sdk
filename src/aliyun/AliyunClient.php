@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\Aliyun;
 class AliyunClient
 {
 	public $accessKeyId;

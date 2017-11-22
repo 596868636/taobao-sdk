@@ -1,4 +1,5 @@
 <?php
+namespace ric\taobaosdk\top;
 class TopLogger
 {
 	public $conf = array(
