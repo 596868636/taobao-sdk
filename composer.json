@@ -16,6 +16,6 @@
   },
   "autoload": {
     "psr-4": {"taobaosdk\\": "src/taobaosdk/"},
-    "files": ["src/TopSdk.php"]
+    "files": ["src/taobaosdk/TopSdk.php"]
   }
 }
