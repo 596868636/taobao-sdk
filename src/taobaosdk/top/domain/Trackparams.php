@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\domain;
 /**
  * 埋点信息
  * @author auto create

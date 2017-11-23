@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\security;
 	include './SecurityUtil.php';
 	include './SecretGetRequest.php';
 	include './TopSdkFeedbackUploadRequest.php';

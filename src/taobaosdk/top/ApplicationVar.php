@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top;
 class ApplicationVar
 {
 	var $save_file;

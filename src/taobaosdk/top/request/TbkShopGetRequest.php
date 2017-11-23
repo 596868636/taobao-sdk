@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top\request;
 /**
  * TOP API: taobao.tbk.shop.get request
  * 

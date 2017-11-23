@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\QimenCloud;
 class QimenCloudClient
 {
 	public $appkey;

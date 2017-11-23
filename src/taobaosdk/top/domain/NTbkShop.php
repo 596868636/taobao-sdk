@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\domain;
 /**
  * 淘宝客店铺
  * @author auto create

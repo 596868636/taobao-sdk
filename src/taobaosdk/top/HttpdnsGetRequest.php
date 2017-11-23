@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top;
 class HttpdnsGetRequest
 {
 	private $apiParas = array();

@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top\security;
 /**
 * yac实现cache
 */

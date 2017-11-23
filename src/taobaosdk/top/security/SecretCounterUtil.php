@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\security;
 	include './SecretContext.php';
 	include './iCache.php';
 	include '../../TopSdk.php';

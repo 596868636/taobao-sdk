@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top;
 /**
  * 返回的默认类
  * 

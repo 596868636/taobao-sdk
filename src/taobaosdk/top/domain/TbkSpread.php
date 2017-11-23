@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\domain;
 /**
  * 传播形式对象列表
  * @author auto create

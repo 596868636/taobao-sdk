@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk\top\security;
 	include './SecurityClient.php';
 	include './YacCache.php';
 

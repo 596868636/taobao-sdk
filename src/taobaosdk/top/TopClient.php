@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top;
 class TopClient
 {
 	public $appkey;

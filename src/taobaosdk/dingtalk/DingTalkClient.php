@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\dingtalk;
 class DingTalkClient
 {
 	/**@Author chaohui.zch copy from TopClient and modify 2016-12-14 **/

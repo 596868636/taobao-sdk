@@ -1,5 +1,5 @@
 <?php
-
+namespace taobaosdk;
 class Autoloader{
   
   /**

@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top\security;
 /**
  * TOP API: taobao.top.sdk.feedback.upload request
  * 

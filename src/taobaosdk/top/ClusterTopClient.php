@@ -1,4 +1,5 @@
 <?php
+namespace taobaosdk\top;
 class ClusterTopClient extends TopClient {
 
 	private static $dnsconfig;
